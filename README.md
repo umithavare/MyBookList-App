@@ -1,5 +1,5 @@
 
-# MyBookList App Test
+# MyBookList App
 
 MyBookList App is a web application for managing your personal book collection. The application is built using Vue.js 3 and TypeScript, with PocketBase as the backend database solution. This application allows users to register, log in, view, add, edit, and delete books. It also includes authentication and authorization features to ensure that only logged-in users can manage the book collection.
 
