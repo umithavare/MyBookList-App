@@ -74,7 +74,7 @@ To set up and run this project locally, follow these steps:
 
 Clone the repository and navigate into the project directory:
 \`\`\`bash
-git clone https://github.com/yourusername/my-vue-pocketbase-app.git
+git clone https://github.com/umithavare/my-vue-pocketbase-app.git
 cd my-vue-pocketbase-app
 \`\`\`
 
