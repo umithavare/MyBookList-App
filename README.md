@@ -73,35 +73,35 @@ To set up and run this project locally, follow these steps:
 ### 1. Clone the Repository
 
 Clone the repository and navigate into the project directory:
-\`\`\`bash
+```bash
 git clone https://github.com/umithavare/my-vue-pocketbase-app.git
 cd my-vue-pocketbase-app
-\`\`\`
+```
 
 ### 2. Install Dependencies
 
 Install the required dependencies:
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 3. Setup PocketBase
 
 Download and extract PocketBase from the [PocketBase website](https://pocketbase.io/). You can place the extracted files in a directory of your choice. 
 
 Start the PocketBase server:
-\`\`\`bash
+```bash
 ./pocketbase serve
-\`\`\`
+```
 
 This will start the PocketBase server on \`http://localhost:8090\`.
 
 ### 4. Run the Development Server
 
 Start the Vue development server:
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 The application will be available at \`http://localhost:3000\`.
 
