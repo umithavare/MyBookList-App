@@ -38,7 +38,7 @@ MyBookList App is a web application for managing your personal book collection. 
 
 The project is structured as follows:
 
-\`\`\`
+```
 my-vue-pocketbase-app/
 ├── public/
 │   └── index.html
@@ -64,7 +64,7 @@ my-vue-pocketbase-app/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-\`\`\`
+```
 
 ## Setup and Installation
 
